@@ -1,0 +1,8 @@
+{
+  "kick": "/kicks/kick-1.wav",
+  "snare": "/snares/snare-1.wav",
+  "hihat": "/hihats/hihat-1.wav",
+  "openhat": "/hihats/hihat-open-1.wav",
+  "ride": "/cymbals/ride-1.wav",
+  "breaks": ["/breaks/detroit-emeralds-break-1.mp3"]
+}
